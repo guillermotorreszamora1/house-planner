@@ -1,0 +1,52 @@
+name,type,subtype,unit_type
+Gel,Higiene Personal,NULL,Liquido NF
+Pan,Comida,Despensa,Unidad
+Champu,Higiene Personal,NULL,Liquido NF
+Espuma de afeitar,Higiene Personal,NULL,Liquido NF
+Papel Higienico,Consumibles,NULL,Unidad
+Pasta de dientes,Consumibles,NULL,Unidad
+Desodorante,Higiene Personal,NULL,Unidad
+Servilletas,Consumibles,NULL,Unidad
+Papel de Cocina,Consumibles,NULL,Unidad
+Pan,Comida,Despensa,Unidad
+Pan Bimbo,Comida,Despensa,Unidad
+Leche,Comida,Despensa,Liquido NF
+Bolsas de basura,Consumibles,NULL,Unidad
+Fairy,Limpieza,NULL,Liquido NF
+Gel lavavajillas,Limpieza,NULL,Liquido NF
+Sal lavavajillas,Limpieza,NULL,Unidad
+Abrillantador,Limpieza,NULL,Liquido NF
+Detergente Lavadora,Limpieza,NULL,Liquido NF
+Suavizante,Limpieza,NULL,Liquido NF
+Friegasuelos,Limpieza,NULL,Liquido NF
+Amoniaco,Limpieza,NULL,Liquido NF
+Leija,Limpieza,NULL,Liquido NF
+Patatas,Comida,Despensa,Unidad
+Cebollas,Comida,Despensa,Unidad
+Ajos,Comida,Despensa,Unidad
+Tomate,Comida,Frigo,Unidad
+Tomate frito,Comida,Despensa,Unidad
+Lechuga,Comida,Frigo,Unidad
+Aceite,Comida,Despensa,Liquido NF
+Huevos,Comida,Despensa,Unidad
+Galletas,Comida,Despensa,Unidad
+Arroz,Comida,Despensa,Gramos
+Fideos,Comida,Despensa,Gramos
+Sal lavavajillas,Consumibles,NULL,Unidad
+Ketchup,Comida,Despensa,Unidad
+Mayonesa,Comida,Despensa,Unidad
+Caldo,Comida,Despensa,Liquido F
+Spaghettis,Comida,Despensa,Unidad
+Macarrones,Comida,Despensa,Unidad
+Fruta,Comida,Frigo,Unidad
+Yogures,Comida,Frigo,Unidad
+Mantequilla,Comida,Frigo,Unidad
+Garbanzos,Comida,Despensa,Gramos
+Lentejas,Comida,Despensa,Gramos
+At+APo-n,Comida,Despensa,Unidad
+Pan rallado,Comida,Despensa,Gramos
+Guisantes,Comida,Despensa,Unidad
+Pimientos morrones,Comida,Despensa,Unidad
+Aceitunas negras,Comida,Despensa,Unidad
+Puerros,Comida,Frigo,Unidad
+Pilas,Consumibles,NULL,Unidad
